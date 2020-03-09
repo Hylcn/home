@@ -1,3 +1,19 @@
+.site-name {
+  width: 200px;
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0.1;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 40px;
+}
+
 .heart-rate {
   width: 150px;
   height: 73px;
